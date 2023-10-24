@@ -14,6 +14,42 @@ h1{
 main{
     background-color: silver;
 }
+ul, ol {
+    padding-left: 18px;
+    list-style: none;
+}
+
+/* 
+    GENERAL
+*/
+body {
+    background-color: lightgrey;
+}
+
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+header {
+    background-color: white;
+    padding: 5px 10px;
+    margin-bottom: 30px;
+}
+
+header h1, header img {
+    vertical-align: middle;
+}
+
+h1 {
+    display: inline-block;
+}
+
+
+
+
+
     
 
 
