@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 header h1, header img{
@@ -92,8 +92,54 @@ h1 {
     background-color:lightseagreen;
     padding: 3px;
     color: white;
-    border-radius: 25%;
+    border-radius: 20px;
     margin-left: 20px;
+    font-size: 12px
+}
+#casella4 {
+    display: inline-block;
+    background-color:purple;
+    padding: 3px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 12px
+}
+#casella5 {
+    display: inline-block;
+    background-color:lightgreen;
+    padding: 3px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 12px
+}
+#casella6 {
+    display: inline-block;
+    background-color:orangered;
+    padding: 3px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 12px
+}
+#casella7 {
+    display: inline-block;
+    background-color:pink;
+    padding: 3px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 12px
+}
+#casella8 {
+    display: inline-block;
+    background-color: yellow;
+    padding: 3px;
+    color: white;
+    border-radius: 20px;
+    margin-left: 20px;
+    font-size: 12px
 }
 
 
