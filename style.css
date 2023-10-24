@@ -70,6 +70,23 @@ h1 {
     border-color: red;
     color: red;
 }
+#casella1{
+    display: inline-block;
+    background-color: lightseagreen;
+    padding: 5px;
+    color: white;
+    border-radius: 10%;
+
+}
+#casella2{
+    display: inline-block;
+    background-color: whitesmoke;
+    padding: 5px;
+    color: silver;
+    border-radius: 10%;
+
+}
+
 
 
 
