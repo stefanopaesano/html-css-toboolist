@@ -61,6 +61,15 @@ h1 {
     text-align: center;
     line-height: 20px;
 }
+.done {
+    border-color: green;
+    color: green;
+}
+
+.not-done {
+    border-color: red;
+    color: red;
+}
 
 
 
